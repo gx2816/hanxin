@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/hanxin/static/css/main.9a6bd689.chunk.css",
+    "main.js": "/hanxin/static/js/main.848e7f7e.chunk.js",
+    "main.js.map": "/hanxin/static/js/main.848e7f7e.chunk.js.map",
+    "runtime-main.js": "/hanxin/static/js/runtime-main.7e964ef0.js",
+    "runtime-main.js.map": "/hanxin/static/js/runtime-main.7e964ef0.js.map",
+    "static/css/2.af458045.chunk.css": "/hanxin/static/css/2.af458045.chunk.css",
+    "static/js/2.d55158d4.chunk.js": "/hanxin/static/js/2.d55158d4.chunk.js",
+    "static/js/2.d55158d4.chunk.js.map": "/hanxin/static/js/2.d55158d4.chunk.js.map",
+    "index.html": "/hanxin/index.html",
+    "precache-manifest.c6f1281556b11b516f48e257cbe3d7c9.js": "/hanxin/precache-manifest.c6f1281556b11b516f48e257cbe3d7c9.js",
+    "service-worker.js": "/hanxin/service-worker.js",
+    "static/css/2.af458045.chunk.css.map": "/hanxin/static/css/2.af458045.chunk.css.map",
+    "static/css/main.9a6bd689.chunk.css.map": "/hanxin/static/css/main.9a6bd689.chunk.css.map",
+    "static/js/2.d55158d4.chunk.js.LICENSE": "/hanxin/static/js/2.d55158d4.chunk.js.LICENSE",
+    "static/media/2.jpg": "/hanxin/static/media/2.ca2f6f6a.jpg",
+    "static/media/bg.svg": "/hanxin/static/media/bg.a568162c.svg",
+    "static/media/logo.svg": "/hanxin/static/media/logo.ee7cd8ed.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7e964ef0.js",
+    "static/css/2.af458045.chunk.css",
+    "static/js/2.d55158d4.chunk.js",
+    "static/css/main.9a6bd689.chunk.css",
+    "static/js/main.848e7f7e.chunk.js"
+  ]
+}
