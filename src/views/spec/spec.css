@@ -1,0 +1,21 @@
+.tipCol {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.tipDivider {
+  border-right: 1px solid #e8e8e8;
+}
+.tip-font {
+  color: rgba(0, 0, 0, 0.45);
+  font-size: 14px;
+  line-height: 22px;
+}
+.tip-data {
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 24px;
+  line-height: 32px;
+}
+.tip-div {
+  text-align: center;
+}

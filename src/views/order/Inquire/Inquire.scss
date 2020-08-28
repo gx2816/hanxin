@@ -1,0 +1,121 @@
+.Inquire-less-wrappers {
+  position: relative;
+  background: #fff!important;
+  padding: 30px;
+  .Inquire-img{
+    position: absolute;
+    background-size: cover!important
+  }
+  .Inquire-button{
+    position: absolute;
+    top: 800px;
+    right: 100px;
+    .ant-btn-primary{
+      //background-color: #27303F;
+    }
+  }
+  .ant-btn{
+    margin-left: 10px
+  }
+  .Inquire-less-returns{
+    z-index: 99;
+    position: absolute;
+    font-size: 14px;
+    font-weight: 700;
+   // padding: 3px 25px;
+    right: 5px;
+    top: 5px;
+    color: #556370;
+  }
+  .ant-card-head-title{
+    font-weight: 700;
+  }
+
+  .ant-card-body{
+    p{
+      font-size: 14px;
+    font-weight: 700;
+
+    }
+  }
+}
+.Inquire-extra{
+  position: absolute;
+  top: 12px;
+  right: 8px;
+  background: #FFCE3D!important;
+  border: none;
+}
+.Inquire-extra:hover{
+  
+  background: #FFCE3D!important;
+
+}
+.Inquire-extra:focus{
+  
+  background: #FFCE3D!important;
+
+}
+.clearfix{
+  position: relative;
+    margin-left: 6%;
+}
+.clearfixpic{
+  position: absolute;
+  top: 0px;
+  color: #000;
+}
+.clearfix .ant-upload-picture-card-wrapper{
+  width: 100%!important;
+  margin-left: 16%;
+}
+
+[data-icon="download"]{
+  display: none!important;
+}
+[data-icon="eye"]{
+  //display: none!important;
+}
+/* .anticon-delete{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%,-50%);
+
+} */
+.ant-upload-select-picture-card i {
+  color: #999;
+  font-size: 32px;
+}
+
+.ant-upload-select-picture-card .ant-upload-text {
+  margin-top: 8px;
+  color: #666;
+}
+.Inquire-less-wrappers .ant-card-extra{
+  background: #FFCE3D;
+  padding: 6px 7px;
+}
+.Inquire-extra{
+  color: #fff;
+}
+.Inquire-extra-msg{
+  position: absolute;
+  color: #fff;
+  top: 12px;
+  right: 117px;
+  background: #FF8C00;
+  padding: 6px 10px;
+}
+.ant-skeleton{
+  position: absolute;
+  top: 4%;
+  right: 3%;
+  width: 35%;
+}
+.ant-skeleton-paragraph li{
+  width: 100%!important;
+}
+.ant-skeleton-title{
+  width: 100%!important;
+}

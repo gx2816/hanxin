@@ -1,0 +1,34 @@
+kind: pipeline
+name: default
+
+steps:
+  - name: setup
+    image: node:10
+    commands:
+      - yarn install
+
+  - name: build
+    image: node:10
+    commands:
+      - yarn build
+
+  - name: deploy
+    image: drillster/drone-rsync
+    settings:
+      hosts:
+        - ryoko.leqi.us
+      user: deployer
+      key:
+        from_secret: ssh_key
+      source: ./build/*
+      target: /var/www/hanxin-front
+      exclude:
+        - .git
+      args: "--delete"
+    when:
+      event:
+        - push
+
+trigger:
+  branch:
+    - master

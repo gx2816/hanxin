@@ -1,0 +1,87 @@
+.trigger {
+  font-size: 18px;
+  line-height: 64px;
+  padding: 0 24px;
+  cursor: pointer;
+  transition: color 0.3s;
+}
+
+.trigger:hover {
+  color: #1890ff;
+  background-color: rgba(24,144,255,.15);
+}
+.ant-popover-inner-content{
+  padding: 0;
+}
+.header{
+  display: flex;
+  justify-content: space-between;
+}
+.user:hover {
+  color: #1890ff;
+  background-color: rgba(24,144,255,.15);
+}
+.user {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  line-height: 64px;
+  padding: 0 20px;
+  cursor: pointer;
+  transition: all .3s;
+  margin-right: 20px;
+}
+.logo {
+  /* height: 32px; */
+  /* background: rgba(255, 255, 255, 0.2); */
+  /* margin: 16px; */
+  /* text-align: center; */
+}
+.logo h1{
+  display: inline-block;
+  margin: 0 0 0 0px;
+  color: #fff;
+  font-weight: 600;
+  font-size: 20px;
+  font-family: Avenir,Helvetica Neue,Arial,Helvetica,sans-serif;
+  vertical-align: middle
+}
+.ant-layout-sider{
+  box-shadow: 2px 0 6px rgba(0,21,41,.35);
+}
+.main{
+  height: 100% !important;
+}
+.ant-layout-header{
+  box-shadow: 0 1px 4px rgba(0,21,41,.08);
+}
+.ant-pro-sider-menu-logo{
+  position: relative;
+    height: 64px;
+    padding-left: 14px;
+    overflow: hidden;
+    line-height: 64px;
+    background: #001529;
+    transition: all .3s;
+}
+.ant-pro-sider-menu-logo img{
+  display: inline-block;
+  height: 36px;
+  vertical-align: middle;
+  animation: App-logo-spin infinite 8s linear;
+  /* pointer-events: none; */
+}
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+.mainText{
+  display: inline-block;
+  color: #fff;
+  font-size: 18px;
+  vertical-align: middle
+}

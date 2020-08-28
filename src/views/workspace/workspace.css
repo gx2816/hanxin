@@ -1,0 +1,194 @@
+.work .ant-card-body{
+  /* padding: 20px 24px 8px; */
+  height:148px;
+  padding: 0;
+  /* padding-left: 5; */
+}
+.cake .ant-card-body{
+  padding: 0;
+}
+.ant-card{
+  box-shadow:0px 0px 4px 0px rgba(0,0,0,0.1);
+  border-radius:4px;
+}
+.work .income{
+  font-size:16px;
+  color:rgba(25,31,37,1);
+  line-height:34px
+}
+.work .money{
+  font-size:16px;
+  color:rgba(25,31,37,1);
+  line-height:34px;
+}
+.work .day{
+  font-size:16px;
+  color:rgba(25,31,37,1);
+  line-height:34px;
+}
+.work .week{
+  font-size:16px;
+  color:rgba(25,31,37,1);
+  line-height:34px;
+}
+.work .increase{
+  /* width:84px; */
+  height:22px;
+  color:red;
+  /* border-radius:16px; */
+  font-size:14px;
+  margin-left: 12px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.work .negative{
+  /* width:84px; */
+  height:22px;
+  color:green;
+  /* border-radius:16px; */
+  font-size:14px;
+  margin-left: 12px;
+  display: inline-flex;
+  justify-content: center;
+  align-items: center;
+}
+.chart-font{
+  height: 60px;
+  font-size:13px;
+  font-family:Helvetica;
+  color:rgba(72,84,101,1);
+  line-height:16px;
+}
+.cake-font{
+  margin-top: 20px;
+  margin-left: 20px;
+  font-size:13px;
+  font-family:Helvetica;
+  color:rgba(72,84,101,1);
+}
+.work_download{
+  background-color:#ffffff;
+  height:76px;
+  box-shadow:0px 0px 4px 0px rgba(0,0,0,0.1);
+  border-radius:4px;
+  display: flex;
+  justify-content: space-between;
+}
+.work_download .logo_font{
+  height:30px;
+  font-size:22px;
+  font-family:AlibabaPuHuiTiM;
+  color:rgba(48,49,51,1);
+  line-height:30px;
+  margin-left: 5px;
+}
+.work_download .download_label{
+  margin-left: 20px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.work_download .choice_mode{
+  margin-left: 30px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.work_download .download_text{
+  margin-right: 20px;
+  height: 100%;
+  display: flex;
+  align-items: center;
+}
+.work_tip{
+  height: 50px;
+  display: flex;
+  align-items: center;
+}
+.work_tip .tip_font{
+  border-left: 4px solid#1989FA;
+  height:22px;
+  font-size:17px;
+  font-family:PingFangSC;
+  font-weight:500;
+  color:rgba(25,31,37,1);
+  line-height:22px;
+  width: 100px;
+  text-align: center;
+}
+.totalMoney{
+  margin-left: -6px;
+  height: 38px;
+  margin-top: 4px;
+  margin-bottom: 0px;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 30px;
+  line-height: 38px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  overflow: hidden;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+}
+.totalVisit{
+  height: 38px;
+  margin-top: 4px;
+  margin-bottom: 0px;
+  color: rgba(0, 0, 0, 0.85);
+  font-size: 30px;
+  line-height: 38px;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  word-break: break-all;
+  overflow: hidden;
+}
+.rankingList{
+  margin: 25px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.rankingList li{
+  display: flex;
+  align-items: center;
+  margin-top: 20px;
+  zoom: 1;
+}
+.rankingspan1{
+  width: 20px;
+    height: 20px;
+    margin-top: 1.5px;
+    margin-right: 16px;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 20px;
+    text-align: center;
+}
+.rankingspan2{
+  flex: 1 1;
+  margin-right: 8px;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  color: rgba(0,0,0,.65);
+    font-size: 14px;
+    line-height: 22px;
+}
+.rankingspan3{
+  color: rgba(0,0,0,.65);
+  font-size: 14px;
+  line-height: 22px;
+}
+.g2-tooltip {
+  background-color: rgba(44, 49, 68, 0.80) !important;
+}
+
+.chart-tooptip {
+  margin: 0;
+  color: white;
+}
+
+.chart-tooptip-right {
+  margin-right: 12px;
+}
