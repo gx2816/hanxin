@@ -1,28 +1,28 @@
 {
   "files": {
-    "main.css": "/static/css/main.9a6bd689.chunk.css",
-    "main.js": "/static/js/main.a2d67f6d.chunk.js",
-    "main.js.map": "/static/js/main.a2d67f6d.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.70d495a4.js",
-    "runtime-main.js.map": "/static/js/runtime-main.70d495a4.js.map",
-    "static/css/2.af458045.chunk.css": "/static/css/2.af458045.chunk.css",
-    "static/js/2.05cb38ff.chunk.js": "/static/js/2.05cb38ff.chunk.js",
-    "static/js/2.05cb38ff.chunk.js.map": "/static/js/2.05cb38ff.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.0123bdd0eeb8512eb79baaffa04f3574.js": "/precache-manifest.0123bdd0eeb8512eb79baaffa04f3574.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/2.af458045.chunk.css.map": "/static/css/2.af458045.chunk.css.map",
-    "static/css/main.9a6bd689.chunk.css.map": "/static/css/main.9a6bd689.chunk.css.map",
-    "static/js/2.05cb38ff.chunk.js.LICENSE": "/static/js/2.05cb38ff.chunk.js.LICENSE",
-    "static/media/2.jpg": "/static/media/2.ca2f6f6a.jpg",
-    "static/media/bg.svg": "/static/media/bg.a568162c.svg",
-    "static/media/logo.svg": "/static/media/logo.ee7cd8ed.svg"
+    "main.css": "/hanxin/static/css/main.9a6bd689.chunk.css",
+    "main.js": "/hanxin/static/js/main.848e7f7e.chunk.js",
+    "main.js.map": "/hanxin/static/js/main.848e7f7e.chunk.js.map",
+    "runtime-main.js": "/hanxin/static/js/runtime-main.7e964ef0.js",
+    "runtime-main.js.map": "/hanxin/static/js/runtime-main.7e964ef0.js.map",
+    "static/css/2.af458045.chunk.css": "/hanxin/static/css/2.af458045.chunk.css",
+    "static/js/2.d55158d4.chunk.js": "/hanxin/static/js/2.d55158d4.chunk.js",
+    "static/js/2.d55158d4.chunk.js.map": "/hanxin/static/js/2.d55158d4.chunk.js.map",
+    "index.html": "/hanxin/index.html",
+    "precache-manifest.3ec761f28bc4e59057b742ae8fbdb4a5.js": "/hanxin/precache-manifest.3ec761f28bc4e59057b742ae8fbdb4a5.js",
+    "service-worker.js": "/hanxin/service-worker.js",
+    "static/css/2.af458045.chunk.css.map": "/hanxin/static/css/2.af458045.chunk.css.map",
+    "static/css/main.9a6bd689.chunk.css.map": "/hanxin/static/css/main.9a6bd689.chunk.css.map",
+    "static/js/2.d55158d4.chunk.js.LICENSE": "/hanxin/static/js/2.d55158d4.chunk.js.LICENSE",
+    "static/media/2.jpg": "/hanxin/static/media/2.ca2f6f6a.jpg",
+    "static/media/bg.svg": "/hanxin/static/media/bg.a568162c.svg",
+    "static/media/logo.svg": "/hanxin/static/media/logo.ee7cd8ed.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.70d495a4.js",
+    "static/js/runtime-main.7e964ef0.js",
     "static/css/2.af458045.chunk.css",
-    "static/js/2.05cb38ff.chunk.js",
+    "static/js/2.d55158d4.chunk.js",
     "static/css/main.9a6bd689.chunk.css",
-    "static/js/main.a2d67f6d.chunk.js"
+    "static/js/main.848e7f7e.chunk.js"
   ]
 }
